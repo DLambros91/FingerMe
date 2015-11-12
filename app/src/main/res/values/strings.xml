@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FingerMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="curX">Current X = </string>
+    <string name="curY">Current Y = </string>
+    <string name="PosID">PointerID = </string>
+</resources>
